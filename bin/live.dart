@@ -15,5 +15,4 @@ void main()
   print('Model: ${car1.model}');
   print('Year: ${car1.year}');
   print('Car Age: ${car1.carAge()}');
-
 }
